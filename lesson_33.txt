@@ -1,0 +1,8 @@
+pwd
+cd ..
+cd name_folder
+mkdir name_folder
+mv
+vim
+nano
+date
