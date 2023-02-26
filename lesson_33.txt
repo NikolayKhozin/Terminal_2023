@@ -30,5 +30,6 @@ cd name_folder
 mkdir name_folder name_1_folder name_2_folder
 cd /c/name_1_folder
 touch 1.txt 2.txt 3.txt file_1.json file_2.jsone
+mkdir name_folder name_1_folder name_2_folder
 ls -la
 mv 1.txt 2.txt /c/name_folder
